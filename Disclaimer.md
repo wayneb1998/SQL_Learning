@@ -1,1 +1,1 @@
-None of the filers here are original work unless stated otherwise. Following youtube or other tutorials. Credit given where relevant.
+I do not claim any of this as original work - I follow along tutorials and credit where relevant. I do type my own code (no copy + pasting) and create my own notes.
