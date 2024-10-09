@@ -1,3 +1,4 @@
-Day 1 should have been cleaning and looking over the dataset.
+I should have cleaned and looked over the data before importing it into pgAdmin4. 
+I will be spending time doing so before beginning any kind of analysis.
 
-I can still work with the data, but the next few days will be focused on cleaning the dataset.
+But, learning brings failures and mistakes so I want to be transparent.
